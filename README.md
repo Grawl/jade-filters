@@ -8,10 +8,10 @@ Usage:
 
 ## Current filters status:
 
-- [x] CoffeeScript `:coffee`
-- [x] Stylus `:styl`
-- [ ] Sass `:sass`
-- [ ] Mammouth `:mammouth`
+- [x] [CoffeeScript](https://github.com/jashkenas/coffeescript) `:coffee`
+- [x] [Stylus](https://github.com/Automattic/stylus) `:styl`
+- [ ] [Sass](https://github.com/sass/node-sass) (`node-sass`) `:sass`
+- [ ] [Mammouth](https://github.com/btwael/mammouth) `:mammouth`
 
 ## Current errors
 
