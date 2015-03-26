@@ -30,12 +30,4 @@ Usage:
 
 ### Mammouth
 
-```
->> TypeError: source/mammouth.jade:4
->>     2| html
->>     3|       body
->>   > 4|               :mammouth
->>     5|                       list = [1, 2, 3]
->> 
->> Object #<Object> has no method 'compile'
-```
+Exported is equl to import. No errors.
