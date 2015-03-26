@@ -1,9 +1,10 @@
 {
   "name": "jade-filters",
   "version": "1.0.0",
-  "description": "",
+  "description": "test some Jade filters with grunt-contrib-jade",
   "author": "Grawl",
-  "license": "ISC",
+  "license": "WTFPL",
+  "repository": "https://github.com/Grawl/jade-filters.git",
   "devDependencies": {
     "coffee-script": "^1.9.1",
     "grunt": "~0.4.2",
@@ -15,7 +16,7 @@
     "time-grunt": "^1.1.0"
   },
   "scripts": {
-    "clean": "rimraf node_modules client/bower_components .tmp dist"
+    "clean": "rimraf node_modules build"
   },
   "engines": {
     "node": ">=0.10.0"
