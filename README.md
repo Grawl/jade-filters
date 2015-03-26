@@ -30,4 +30,4 @@ Usage:
 
 ### Mammouth
 
-Exported is equl to import. No errors.
+Exported is equal to import. No errors.
